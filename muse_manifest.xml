@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="noahbjohnson.github.io" resolutions="1x" timestamp="1541022636619">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="noahbjohnson.github.io" resolutions="1x" timestamp="1541023094636">
   <folder name="css">
     <file name="site_global.css" crc="432066999"/>
-    <file name="index.css" crc="3964194684" ref="index"/>
-    <file name="nomq_index.css" crc="413395159" ref="index"/>
+    <file name="index.css" crc="3995746312" ref="index"/>
+    <file name="nomq_index.css" crc="184619992" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="noahbjohnsonresume.pdf" crc="508646020" seo="true" mt="1511145524000"/>
@@ -19,10 +19,6 @@
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="form_check.php" crc="4020933626" ref="index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="index"/>
-    <file name="form_process.php" crc="37464564" ref="index"/>
-    <file name="form-u1569.php" crc="521584461" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
@@ -256,26 +252,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="input-box.png" crc="4035235826" ref="index">
-      <caption webpage="index" alt="Name"/>
-      <caption webpage="index" alt="Email"/>
-      <caption webpage="index" alt="Message"/>
-      <caption webpage="index" alt="Name"/>
-      <caption webpage="index" alt="Email"/>
-      <caption webpage="index" alt="Message"/>
-      <caption webpage="index" alt="Name"/>
-      <caption webpage="index" alt="Email"/>
-      <caption webpage="index" alt="Message"/>
-      <caption webpage="index" alt="Name"/>
-      <caption webpage="index" alt="Email"/>
-      <caption webpage="index" alt="Message"/>
-      <caption webpage="index" alt="Name"/>
-      <caption webpage="index" alt="Email"/>
-      <caption webpage="index" alt="Message"/>
-      <caption webpage="index" alt="Name"/>
-      <caption webpage="index" alt="Email"/>
-      <caption webpage="index" alt="Message"/>
-    </file>
     <file name="mm1012170095-u494-fr.jpg" crc="96105462" ref="index"/>
     <file name="mobile-menu.png" crc="3764371821" ref="index">
       <caption webpage="index" alt=""/>
@@ -292,5 +268,5 @@
     </file>
     <file name="mm1012170095-u494-fr2.jpg" crc="165925492" ref="index"/>
   </folder>
-  <file name="index.html" crc="23601413" seo="true" mt="1541022583737" redirect="true"/>
+  <file name="index.html" crc="3884437549" seo="true" mt="1541023058558" redirect="true"/>
 </manifest>
