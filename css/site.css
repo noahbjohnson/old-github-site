@@ -1,3 +1,18 @@
-body {
-    padding-top: 120px
+#banner{
+  padding-top: 10vh
+}
+#banner-image{
+  background: url('../images/matrix.gif') no-repeat center center fixed;
+  background-size: cover;
+}
+#banner div div {
+    text-align: center;
+
+}
+.profile{
+  padding-top: 15vh;
+}
+.profile img{
+  width: 25%;
+  height: auto;
 }
