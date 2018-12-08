@@ -10,9 +10,13 @@
 
 }
 .profile{
-  padding-top: 15vh;
+  padding-top: 8vh;
 }
 .profile img{
   width: 25%;
   height: auto;
+}
+.description {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
 }
