@@ -24,3 +24,10 @@
 #sk-list div h6{
   padding-top: 1vh
 }
+
+.navbar-nav li a i{
+  width: 2.5vw;
+  font-size: 1.75rem;
+  text-decoration-color: white;
+  color: white;
+}
