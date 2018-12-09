@@ -1,0 +1,33 @@
+#banner{
+  padding-top: 10vh
+}
+#banner-image{
+  background: url('../images/matrixblue.gif') no-repeat center center fixed;
+  background-size: cover;
+}
+#banner div div {
+    text-align: center;
+
+}
+.profile{
+  padding-top: 8vh;
+}
+.profile img{
+  width: 25%;
+  height: auto;
+}
+.description {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+
+#sk-list div h6{
+  padding-top: 1vh
+}
+
+.navbar-nav li a i{
+  width: 2.5vw;
+  font-size: 1.75rem;
+  text-decoration-color: white;
+  color: white;
+}
