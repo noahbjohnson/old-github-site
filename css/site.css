@@ -2,7 +2,7 @@
   padding-top: 10vh
 }
 #banner-image{
-  background: url('../images/matrix.gif') no-repeat center center fixed;
+  background: url('../images/matrixblue.gif') no-repeat center center fixed;
   background-size: cover;
 }
 #banner div div {
@@ -19,4 +19,8 @@
 .description {
   padding-top: 1vh;
   padding-bottom: 1vh;
+}
+
+#sk-list div h6{
+  padding-top: 1vh
 }
